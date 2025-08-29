@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573946624067",
+    "project_id": "spy-car-c29ac",
+    "storage_bucket": "spy-car-c29ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573946624067:android:751fa10ea326e7af8dbcf6",
+        "android_client_info": {
+          "package_name": "com.example.spy_car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVocLuveyOMjhW4D77gLQTYVPteVylAXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
