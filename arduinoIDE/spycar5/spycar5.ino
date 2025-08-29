@@ -10,14 +10,14 @@
 #include <WiFiClientSecure.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "UTFPR-ALUNO";
-const char* username = "a2417073";
-const char* password = "gagaue34";
-#define API_KEY         "AIzaSyCVocLuveyOMjhW4D77gLQTYVPteVylAXQ"
-#define USER_EMAIL      "odilonspycar@gmail.com"
-#define USER_PASSWORD   "12345678"
-#define RTDB_URL        "https://spy-car-c29ac-default-rtdb.firebaseio.com"
-const char* upload_url = "https://spycar.onrender.com/upload";
+const char* ssid = "";
+const char* username = "";
+const char* password = "";
+#define API_KEY         ""
+#define USER_EMAIL      ""
+#define USER_PASSWORD   ""
+#define RTDB_URL        ""
+const char* upload_url = "";
 
 #define LED_PIN 4
 #define SERVO_1 14
